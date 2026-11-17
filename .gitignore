@@ -1,0 +1,10 @@
+# Compiled MetaTrader files and terminal output
+*.ex4
+*.ex5
+*.log
+*.dat
+*.dll
+*.rar
+*.zip
+# Local signal files written by the EAs
+*_Signal.text
